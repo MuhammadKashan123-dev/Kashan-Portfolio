@@ -5,7 +5,7 @@ AI Automation Bots and Full-Stack Projects Using APIs and Workflows on N8N
 
 ## About Me
 I am a Backe-end Focused Full Stack Develepor and AI Automation Builder Passionate about creating intelligent bussiness systems, APIs and workflow automations.
-I specialize in Building ERP systems and many backend projects, automation Workflows, backend APIs, and AI- Powered Applications using FastAPI , PostgreSQL , SQLAlchemy , Jinja2 and n8n
+I specialize in Building ERP systems and many backend projects, automation Workflows, backend APIs, and AI- Powered Applications using FastAPI , PostgreSQL , SQLAlchemy , Jinja2 , JavaScript , HTML , CSS and n8n
 
 Currently Focused On:
 
@@ -30,6 +30,7 @@ Currently Focused On:
 - Backend Architecture
 
 ### Frontend Development
+- JavaScript
 - HTML
 - CSS
 - Jinja2 Templates
@@ -45,6 +46,7 @@ Currently Focused On:
 
 ### Programming
 - Python (With Frameworks)
+- JavaScript
 - HTML
 - CSS
 - C/C++
