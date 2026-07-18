@@ -52,8 +52,12 @@ Currently Focused On:
 - HTML
 - CSS
 - C/C++
-- Git & Github
 
+### Dev-Ops
+- CI/CD
+- Docker
+- Git/Github
+- Linux (Bash)
 ---
 
 ## Featured Projects
