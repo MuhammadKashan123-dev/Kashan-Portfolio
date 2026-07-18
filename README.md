@@ -93,6 +93,7 @@ A full-stack ERP web Application built using FastAPI, PostgreSQL, SQLAlchemy,Jin
 - CRUD Operations
 - Dynamic Template Rendering
 - Database Relationships
+- JavaScript Dynamic Updates
 
 **Tech-Stack**
 - FastAPI
@@ -101,11 +102,21 @@ A full-stack ERP web Application built using FastAPI, PostgreSQL, SQLAlchemy,Jin
 - Jinja2
 - HTML/CSS
 
-**Future Improvements**
-- JavaScript Dynamic Updates
-- Live Search
-- AI Automation Features
-- Deployment
+### Klaude AI Agent (RAG)
+**Description**
+This Project was a test for my AI skills and Integration Skills. I Integrated Gemini-2.5-Flash in this Project.
+And Implemented RAG with my Own Data.
+
+**Tech Stack**
+- Rag Implementation
+- FastAPI
+- CSS/HTML/JS
+
+**Featueres**
+- Text Replies by AI
+- Memory
+- ChatBox-Like Interface
+- PDF/Image Insertion
 ---
 
 ##Current Learning Focus
