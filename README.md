@@ -1,11 +1,11 @@
 # Kashan-portfolio
-AI Automation Bots and Full-Stack Projects Using APIs and Workflows on N8N
+AI Automation Bots and Full-Stack Projects Using APIs and Workflows on N8N and AI Projects
 
-# Kashan – Backend & AI Automation Developer
+# Kashan – Full-Stack & AI Engineer
 
 ## About Me
 I am a Backe-end Focused Full Stack Develepor and AI Automation Builder Passionate about creating intelligent bussiness systems, APIs and workflow automations.
-I specialize in Building ERP systems and many backend projects, automation Workflows, backend APIs, and AI- Powered Applications using FastAPI , PostgreSQL , SQLAlchemy , Jinja2 , JavaScript , HTML , CSS and n8n
+I specialize in Building ERP systems and many Full-Stack projects, automation Workflows, backend APIs, and AI- Powered Applications using FastAPI , PostgreSQL , SQLAlchemy , Jinja2 , JavaScript , HTML , CSS and n8n
 
 Currently Focused On:
 
@@ -14,6 +14,7 @@ Currently Focused On:
 - AI Automation Systems
 - Workflow Integrations
 - API Development
+- AI Engineering
 
 ---
 
@@ -43,6 +44,7 @@ Currently Focused On:
 - Whatsapp Bot Automations
 - AI Agent Logic
 - Workflow Designs
+- RAG Implementation
 
 ### Programming
 - Python (With Frameworks)
