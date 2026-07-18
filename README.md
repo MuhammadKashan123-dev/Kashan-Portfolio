@@ -113,7 +113,7 @@ A full-stack ERP web Application built using FastAPI, PostgreSQL, SQLAlchemy,Jin
 This Project was a test for my AI skills and Integration Skills. I Integrated Gemini-2.5-Flash in this Project.
 And Implemented RAG with my Own Data.
 
-**Tech Stack**
+**Tech-Stack**
 - Rag Implementation
 - FastAPI
 - CSS/HTML/JS
@@ -123,6 +123,28 @@ And Implemented RAG with my Own Data.
 - Memory
 - ChatBox-Like Interface
 - PDF/Image Insertion
+
+### Voice Agent (For Appointments Booking)
+**Description**
+A Voice Bot Made for Appointment/Booking in several industries. It first asks for What service do we want (eg : Primary Care etc)
+then asks for our information eg Name , Number etc. After That Our Desired Time for Appointment. While Using Tools like Google Sheets , calender etc.
+
+**Tech-Stack**
+- Vapi (Orchestration)
+- Deepgram Nova Multi-lingual (Transcriber)
+- Gemini 3.5 Flash
+- 11Labs (Voice)
+- Whatsapp API
+- Google Sheets
+- n8n
+
+**Features**
+- Choice Between English and Urdu
+- Sending Whatsapp Message After Confirmation
+- Checking Availability on Google Calender
+- Creating Event On Google Calender
+- Appending Rows on Google Sheets
+
 ---
 
 ##Current Learning Focus
