@@ -4,7 +4,7 @@ AI Automation Bots and Full-Stack Projects Using APIs and Workflows on N8N and A
 # Muhammad Kashan – Full-Stack & AI Engineer
 
 ## About Me
-I am a Backe-end Focused Full Stack Develepor and AI Automation Builder Passionate about creating intelligent bussiness systems, APIs and workflow automations.
+I am a Back-end Focused Full Stack Develepor and AI Automation Builder Passionate about creating intelligent bussiness systems, APIs and workflow automations.
 I specialize in Building ERP systems and many Full-Stack projects, automation Workflows, backend APIs, and AI- Powered Applications using FastAPI , PostgreSQL , SQLAlchemy , Jinja2 , JavaScript , HTML , CSS and n8n
 
 Currently Focused On:
