@@ -1,7 +1,7 @@
-# Kashan-portfolio
+# Muhammad Kashan-portfolio
 AI Automation Bots and Full-Stack Projects Using APIs and Workflows on N8N and AI Projects
 
-# Kashan – Full-Stack & AI Engineer
+# Muhammad Kashan – Full-Stack & AI Engineer
 
 ## About Me
 I am a Backe-end Focused Full Stack Develepor and AI Automation Builder Passionate about creating intelligent bussiness systems, APIs and workflow automations.
