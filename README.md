@@ -72,7 +72,9 @@ An automated appointment booking system for companies built with n8n.
 - Stores data in Google Sheets
 - Uses AI agent for message understanding
 - Remembers Where User Left Off
-- Checks Mistakes 
+- Checks Mistakes
+- Can Respond to Voice Messages
+- Menu Driven
 
 **Tech Used:**
 - n8n
